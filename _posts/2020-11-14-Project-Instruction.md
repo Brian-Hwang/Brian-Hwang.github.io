@@ -40,7 +40,7 @@ title:  "Instructions for OSS Project _ 5"
 author: OSS_5
 categories: [ instruction, tutorial ]	
 tags: [what, project]	
-image: assets/images/11.jpg	
+image: assets/images/Instagram_button2.jpg	
 description: ""Project Description"	
 rating: 4.0	
 ---	
