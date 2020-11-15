@@ -8,12 +8,11 @@ image: assets/images/11.jpg
 description: "Project Description"	
 featured: true	
 hidden: false	
-rating: 5.0	
+rating: 4.0	
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
 
 #### How to use?	
 
@@ -28,6 +27,6 @@ categories: [ instruction, tutorial ]
 tags: [what, project]	
 image: assets/images/11.jpg	
 description: ""Project Description"	
-rating: 5.0	
+rating: 4.0	
 ---	
 ```
