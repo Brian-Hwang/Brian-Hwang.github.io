@@ -12,7 +12,8 @@ rating: 4.0
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
-Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
+
+
 
 오픈소스 소개(README.md 참고):
 
@@ -28,6 +29,9 @@ http://www.apache.org/licenses/LICENSE-2.0
 개발계획: 
 1) 이 깃헙 코드의 장점은 여러가지 customization이 가능하다는 것이다. 이에 카메라 버튼 자체의 다체로운 색을 고를 수 있게 활용할 수 있게 해 더 다체로운 customization을 지원할 수 있었으면 좋겠다.
 2) 같은 맥락으로 최근 이슈 중 하나였던 Stroke의 너비를 조절할 수 없다는 데에 있어 이는 명백한 니즈가 있는것을 보아 개발 계획 중 하나로 꼽을 수 있으면 좋겠다.
+
+
+Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
 
 #### How to use?	
 
