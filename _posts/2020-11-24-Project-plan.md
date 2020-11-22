@@ -10,13 +10,15 @@ featured: true
 hidden: false	
 rating: 4.5	
 ---	
-(Github Instagram Camera Button Demo)
-Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
 
-OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
 > 우리 OSS5조는 오픈소스를 활용한 프로젝트를 진행한다. 따라서 지난 4~5주 동안 Static Page 만들기, Community 기여 등의 오픈소스를 활용하는 방식을 더하여 우리의 오픈소스 프로젝트를 개선할 수 있는 방식에 대해 연구해왔다. 때문에 우리 OSS5조가 지금까지 어떻게 진행하여 왔는지, 또 우리가 어떤 프로젝트를 골랐고, 그 프로젝트는 어떠한지, 어떻게 우리 5조가 개선할 수 있을지에 대해 포스팅해보겠다.
 
+(Github Instagram Camera Button Demo)
+
+Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
+
+OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
 오픈소스 소개(README.md 참고):
 
