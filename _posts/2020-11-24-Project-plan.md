@@ -45,7 +45,9 @@ http://www.apache.org/licenses/LICENSE-2.0
 <새로운 issue 제안>
 1. 버튼 색 customization
 2. 튜토리얼 작성
-기존의 이슈들과 더불어 튜토리얼 작성, 버튼 색 customization 과 관련된 issue를 개설하여 개발을 진행할 예정. 이 외에도 개발을 하면서 다양한 issue를 추가할 예정입니다.
+기존의 이슈들과 더불어 튜토리얼 작성, 버튼 색 customization 과 관련된 
+issue를 개설하여 개발을 진행할 예정.
+이 외에도 개발을 하면서 다양한 issue를 추가할 예정입니다.
 ```
 
 개선방향:
