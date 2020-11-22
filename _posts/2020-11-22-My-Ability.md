@@ -42,8 +42,8 @@ rating: 4.5
 
 OSS 5조의 역할 분담:
 5조의 역할분담은 다음과 같다. 우선 이것을 확인 후, 다음과 같이 분담을 한 이유를 차후 설명하겠다.
-```
-<개발>
+
+> <개발>
 
     • 튜토리얼 작성(작동방식 설명 추가) (1명) - 황준용
     • 버튼 색 Customization (3명) - 이다윤 오나현 조현수
@@ -57,7 +57,7 @@ OSS 5조의 역할 분담:
     • 깃허브 페이지 및 정적페이지 관리(2명) - 오나현 황준용
     • 최종 정리 및 피드백 (2명) - 임지혜 정서연
 2. git 활용: 개발 과정에서 생길 수 있는 Issue들을 작성하여 PR(Pull Request) 보내고, 각 이슈의 해결에 대해서는 주차별 이슈로 나눠서 위 역할을 반영한 관련 Assignee 지정 및 작업 할당
-```
+
 역할분석:
 
 다음과 같이 역할을 분담했을때, 필자가 맡게되는 파트는 github관리에서는 github 페이지 및 static 페이지 관리이며, 개발에서는 튜토리얼 작성을 맡았다.
@@ -68,9 +68,9 @@ OSS 5조의 역할 분담:
 
 개인별 기여 방안 및 계획 정리: 
 
-```
 
-<개발 진행 상황>
+
+> <개발 진행 상황>
 1) github page static page의 개선을 위해서는 필자가 우선 자료조사를 해야한다고 생각한다. 때문에 markdown 및 yml 파일에 적응하는것이 중요하다. 때문에 이러한 자료조사를 위해 다음과 같은 여러 사이트를 참고하고 실력을 키우는 것이 중요하다고 판단된다.
 https://github.com/wowthemesnet/mediumish-theme-jekyll
 https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
@@ -123,4 +123,4 @@ https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
     
     
     * "+"이 개인별 계획을 의미
-```
+
