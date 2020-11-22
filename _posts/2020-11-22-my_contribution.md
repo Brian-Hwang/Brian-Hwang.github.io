@@ -4,7 +4,7 @@ title:  "[나의 개발 능력에 따른 개인별 기여 방안 및 계획 정�
 author: OSS_5
 categories: [ instruction, tutorial ]	
 tags: [what, project]
-image: assets/images/Instagram_button.gif
+image: assets/images/instagramnewcameramode.jpg
 description: "Project Description"	
 featured: true	
 hidden: false	
