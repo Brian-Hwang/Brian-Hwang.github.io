@@ -13,35 +13,52 @@ rating: 4.5
 
 > 우리 OSS5조는 최종적으로 인스타그램에서 활용되는 instagram camera button에 대해 프로젝트를 진행하기로 했다. 이 프로젝트는 필자가 산학협력 프로젝트에서 CurvSurf라는 회사와 함께 카메라를 활용한 AR 나무 지름 측정기 앱을 만들 당시 사용했던 툴이다. 또한 필자는 이번 OSS 수업 5조에 조장을 맡고있기 때문에 어떻게 팀을 이끌어 나갈지, 또 어떤 부분에 기여하여 팀의 발전에 이바지 할 수 있을지에 대해 posting 하겠다.
 
-나의 개발 능력 및 역할분석: 
-```html	
-→ 안드로이드 스튜디오에서 인스타그램과 같은 카메라 촬영/동영상 버튼으로 
-기존 심심했던 카메라 버튼을 누를 수 있게 활용.
+나의 개발 능력: 
+```	
+앞에서 언급했듯이 필자는 이번 산학협력 프로젝트에서 이 github source를 활용하여 앱 개발 경험이 있다. 때문에 기본적으로 이 github 페이지에서 활용되고 있는 XML코드와 Java 코드의 사용에 대해 잘 숙지하고 있다. 또한, 이 코드를 직접 사용하므로써 어떠한 상황에서 코드가 잘 돌아가는지, 또 어떠한 상황에서 그렇지 않은지에 대해 잘 숙지하고 있어 많은 도움을 줄 수 있다. 따라서 다른 팀원들에 비해 비교적 우위를 가지고 있는 개발 능력은 다음과 같다고 할 수 있다.
+1.
+2.
+3.
+4.
 
-특히 동영상 촬영의 경우 최대 가능한 영상의 길이를 한눈에 알 수 있고 영상의 
-길이를 촬영중에 알 수 있다는 장점이 있다.
-
-나아가 여러가지 메뉴를 버튼 자체에서 스와이프를 통해 선택할 수 있다는 장점이 있다.
-
-마지막으로 복잡한 Java코드가 필요없이 xml과 handler을 사용하여 바로 생성이 가능하다.
 ```
 
-오픈소스 소개(README.md 참고):
 
-```html	
-→ 안드로이드 스튜디오에서 인스타그램과 같은 카메라 촬영/동영상 버튼으로 
-기존 심심했던 카메라 버튼을 누를 수 있게 활용.
+필자가 실제로 활용한 XML 코드:
 
-특히 동영상 촬영의 경우 최대 가능한 영상의 길이를 한눈에 알 수 있고 영상의 
-길이를 촬영중에 알 수 있다는 장점이 있다.
-
-나아가 여러가지 메뉴를 버튼 자체에서 스와이프를 통해 선택할 수 있다는 장점이 있다.
-
-마지막으로 복잡한 Java코드가 필요없이 xml과 handler을 사용하여 바로 생성이 가능하다.
+```xml
+    <com.hluhovskyi.camerabutton.CameraButton
+        android:id="@+id/recBtn"
+        android:layout_width="@dimen/cb_layout_width_default"
+        android:layout_height="@dimen/cb_layout_height_default"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.906" />
+	
 ```
 
-다음과 같은 라이선스를 따름:
-http://www.apache.org/licenses/LICENSE-2.0
+OSS 5조의 역할 분담:
+5조의 역할분담은 다음과 같다. 우선 이것을 확인 후, 다음과 같이 분담을 한 이유를 차후 설명하겠다.
+```
+<개발>
+
+    • 튜토리얼 작성(작동방식 설명 추가) (1명) - 황준용
+    • 버튼 색 Customization (3명) - 이다윤 오나현 조현수
+    • Stroke 너비 조절 (2명) - 임지혜 정서연
+    • 이 외의 issue 및 개발 enhancement 진행 (6명) - 전원 참여
+      
+<github 관리>
+
+1. 매주 진행 내용을 [문서화 작업]하여 이를 [깃허브 페이지에 반영]하고 이를 [정리 및 피드백]하는 구조
+    • 문서화 작업 (2명) - 이다윤 조현수
+    • 깃허브 페이지 및 정적페이지 관리(2명) - 오나현 황준용
+    • 최종 정리 및 피드백 (2명) - 임지혜 정서연
+2. git 활용: 개발 과정에서 생길 수 있는 Issue들을 작성하여 PR(Pull Request) 보내고, 각 이슈의 해결에 대해서는 주차별 이슈로 나눠서 위 역할을 반영한 관련 Assignee 지정 및 작업 할당
+```
+
 
 
 최근 커밋이나 이슈: 
