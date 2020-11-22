@@ -64,7 +64,7 @@ OSS 5조의 역할 분담:
 1)github 페이지 및 static 페이지 관리는 필자가 github static page 개발 경험이 있기 때문에 맡았다.
 2) 또한, 튜토리얼 작성은 앞에서 언급한것과 같이 우리가 발전하고자 하는 깃허브 페이지에 대해 정통하고 있기때문에 기존 페이지의 문제점 및 보완점, 어떻게 보완했는지에 대해 가장 잘 알고 있을것이라고 생각했다. 
 
-![alt text](https://github.com/Brian-Hwang/Brian-Hwang.github.io/tree/main/assets/images/socialmatic_2_mini.jpg)
+![alt text](https://github.com/Brian-Hwang/Brian-Hwang.github.io/tree/main/assets/images/socialmatic_2_mini.jpg?raw=true)
 
 개인별 기여 방안 및 계획 정리: 
 
@@ -79,7 +79,7 @@ https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 
 2) 두번째로 듀토리얼 페이지의 작성을 위해서는 지금껏 해왔던 여러가지 앱개발을 추가적으로 하며 이 instagram camera button의 여러가지 기능들을 경험해보고, 체험해보며 장단점을 확실하게 정리해야할 것이다. 아래에 보이는 사진이 우리 curvSurf 산학협력에서 실제로 만든 앱 화면이다.
 
-![alt text](https://github.com/Brian-Hwang/Brian-Hwang.github.io/tree/main/assets/images/socialmatic_2_mini.jpg)
+![alt text](https://github.com/Brian-Hwang/Brian-Hwang.github.io/tree/main/assets/images/tree1.png?raw=true)
 
 이렇게 만든 앱의 개발 개선 뿐만 아니라 팀원들이 지속적으로 개발하는 추가 개선 사항들 또한 실제로 사용해보고 어떻게 개선되었는지 실시간으로 듀토리얼 페이지의 업데이트가 중요할 것으로 보인다.
 
