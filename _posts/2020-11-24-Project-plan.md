@@ -4,11 +4,11 @@ title:  "[ 팀별 진행사항 정리 // 선정 프로젝트 분석 및 개선�
 author: Brian
 categories: [ instruction, tutorial ]	
 tags: [what, project]
-image: assets/images/Instagram_button.gif
+image: assets/images/instagramnewcameramode.jpg
 description: "Project Description"	
 featured: true	
 hidden: false	
-rating: 4.0	
+rating: 4.5	
 ---	
 
 Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
