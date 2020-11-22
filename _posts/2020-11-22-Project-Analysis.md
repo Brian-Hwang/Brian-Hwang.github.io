@@ -28,7 +28,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 다음과 같은 라이선스를 따름:
 http://www.apache.org/licenses/LICENSE-2.0
-<p class="mb-5"><img class="shadow-lg" src="assets/images/Instagram_button2.jpg"/></p>
+
 
 최근 커밋이나 이슈: 
 
