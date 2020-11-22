@@ -17,11 +17,13 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 오픈소스 소개(README.md 참고):
 
+```html	
 → 안드로이드 스튜디오에서 인스타그램과 같은 카메라 촬영/동영상 버튼으로 기존 심심했던 카메라 버튼을 누를 수 있게 활용. 특히 동영상 촬영의 경우 최대 가능한 영상의 길이를 한눈에 알 수 있고 영상의 길이를 촬영중에 알 수 있다는 장점이 있다. 나아가 여러가지 메뉴를 버튼 자체에서 스와이프를 통해 선택할 수 있다는 장점이 있다. 나아가 복잡한 Java코드가 필요없이 xml과 handler을 사용하여 바로 생성이 가능하다.
+```
 
 다음과 같은 라이선스를 따름:
 http://www.apache.org/licenses/LICENSE-2.0
-
+<p class="mb-5"><img class="shadow-lg" src="assets/images/Instagram_button2.jpg" alt="jekyll template mediumish" /></p>
 최근 커밋이나 이슈: 
 1) 이를 활용하여 동영상을 녹화하는 방식에 대한 설명/ 방식이 미흡함 → 이를 설명
 2) 버튼 Stroke의 너비를 조절할 수 있는 옵션이 없음
