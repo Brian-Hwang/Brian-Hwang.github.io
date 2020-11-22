@@ -1,20 +1,19 @@
 ---	
 layout: post	
 title:  "[나의 개발 능력 및 역할분석 // 기여방안 및 계획 정리]"	
-author: OSS_5
+author: Brian
 categories: [ instruction, tutorial ]	
 tags: [what, project]
 image: assets/images/MRP_0453_명함판.jpg
 description: "Project Description"	
 featured: true	
 hidden: false	
-rating: 4.0	
+rating: 4.5	
 ---	
 
+나의 개발 능력 및 역할분석
 
-Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
-
-OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
+> 우리 OSS5조는 최종적으로 인스타그램에서 활용되는 instagram camera button에 대해 프로젝트를 진행하기로 했다. 이 프로젝트는 필자가 산학협력 프로젝트에서 CurvSurf라는 회사와 함께 카메라를 활용한 AR 나무 지름 측정기 앱을 만들 당시 사용했던 툴이다. 또한 필자는 이번 OSS 수업 5조에 조장을 맡고있기 때문에 어떻게 팀을 이끌어 나갈지, 또 어떤 부분에 기여하여 팀의 발전에 이바지 할 수 있을지에 대해 posting 하겠다.
 
 
 
