@@ -15,7 +15,7 @@ Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsen
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-> 우리 OSS5조는 최종적으로 인스타그램에서 활용되는 instagram camera button에 대해 프로젝트를 진행하기로 했다. 이 프로젝트는 필자가 산학협력 프로젝트에서 CurvSurf라는 회사와 함께 카메라를 활용한 AR 나무 지름 측정기 앱을 만들 당시 사용했던 툴이다. 또한 필자는 이번 OSS 수업 5조에 조장을 맡고있기 때문에 어떻게 팀을 이끌어 나갈지, 또 어떤 부분에 기여하여 팀의 발전에 이바지 할 수 있을지에 대해 posting 하겠다.
+> 우리 OSS5조는 오픈소스를 활용한 프로젝트를 진행한다. 따라서 지난 4~5주 동안 Static Page 만들기, Community 기여 등의 오픈소스를 활용하는 방식을 더하여 우리의 오픈소스 프로젝트를 개선할 수 있는 방식에 대해 연구해왔다. 때문에 우리 OSS5조가 지금까지 어떻게 진행하여 왔는지, 또 우리가 어떤 프로젝트를 골랐고, 그 프로젝트는 어떠한지, 어떻게 우리 5조가 개선할 수 있을지에 대해 포스팅해보겠다.
 
 
 오픈소스 소개(README.md 참고):
@@ -51,7 +51,7 @@ issue를 개설하여 개발을 진행할 예정.
 이 외에도 개발을 하면서 다양한 issue를 추가할 예정입니다.
 ```
 
-![alt text](https://github.com/Brian-Hwang/Brian-Hwang.github.io/assets/images/Instagram_button.gif "Camera Button Demo")
+![alt text](assets/images/Instagram_button.gif "Camera Button Demo")
 
 개선방향:
 
