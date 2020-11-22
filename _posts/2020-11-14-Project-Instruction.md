@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title:  "Instructions for OSS Project _ 5"	
+title:  "[OSS Project _ 5 진행상황]"	
 author: OSS_5
 categories: [ instruction, tutorial ]	
 tags: [what, project]
