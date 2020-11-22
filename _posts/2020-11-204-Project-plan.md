@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title:  "[OSS Project _ 5 진행상황]"	
+title:  "[팀 별 진행사항 정리]"	
 author: Brian
 categories: [ instruction, tutorial ]	
 tags: [what, project]
