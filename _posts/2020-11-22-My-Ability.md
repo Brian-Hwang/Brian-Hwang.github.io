@@ -4,7 +4,7 @@ title:  "[나의 개발 능력 및 역할분석]"
 author: OSS_5
 categories: [ instruction, tutorial ]	
 tags: [what, project]
-image: assets/images/Instagram_button.gif
+image: assets/images/socialmatic_2_mini.jpg
 description: "Project Description"	
 featured: true	
 hidden: false	
