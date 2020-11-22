@@ -53,7 +53,7 @@ issue를 개설하여 개발을 진행할 예정.
 이 외에도 개발을 하면서 다양한 issue를 추가할 예정입니다.
 ```
 
-![alt text](assets/images/Instagram_button.gif "Camera Button Demo")
+![alt text](assets/images/socialmatic_2_mini.jpg "Camera Button Demo")
 
 개선방향:
 
