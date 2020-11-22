@@ -1,7 +1,7 @@
 ---	
 layout: post	
 title:  "[OSS Project _ 5 진행상황]"	
-author: OSS_5
+author: Brian
 categories: [ instruction, tutorial ]	
 tags: [what, project]
 image: assets/images/Instagram_button.gif
